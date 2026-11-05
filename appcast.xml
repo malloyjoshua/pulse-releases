@@ -3,6 +3,14 @@
     <channel>
         <title>Pulse</title>
         <item>
+            <title>0.1.1</title>
+            <pubDate>Thu, 05 Nov 2026 14:21:10 -0500</pubDate>
+            <sparkle:version>0.1.1</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/malloyjoshua/pulse-releases/releases/download/channel/Pulse-0.1.1.zip" length="2447654" type="application/octet-stream" sparkle:edSignature="PJjKJlZqDqrHiQ8I9vMCzxLY/ULZm2Cw3QyYmt8AA1lHUJgWgjPzAcT8MAggoLymIrArzxduEiVKp54Y09MeBA=="/>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Thu, 05 Nov 2026 13:01:50 -0500</pubDate>
             <sparkle:version>0.1.0</sparkle:version>
